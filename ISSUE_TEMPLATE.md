@@ -11,8 +11,8 @@
   1.
   
  ## User information
- Username:
- InstaceID (If applicable):
+- Username:
+- InstaceID (If applicable):
 
 ## Specifications
 
