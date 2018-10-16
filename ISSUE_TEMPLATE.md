@@ -9,6 +9,10 @@
   1.
   1.
   1.
+  
+ ## User information
+ Username:
+ InstaceID (If applicable):
 
 ## Specifications
 
